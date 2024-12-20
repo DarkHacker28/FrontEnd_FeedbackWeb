@@ -1,0 +1,54 @@
+/* globals.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f4f4f4;
+    height: 100%;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header, footer {
+    background-color: #0070f3;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  footer {
+    margin-top: 20px;
+  }
+  
+  main {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+
+
+
+  
+  
